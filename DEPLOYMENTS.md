@@ -25,6 +25,16 @@ Point the app at the Contract ID below (or your own deploy) via
 | Lab | [Open in Stellar Lab](https://lab.stellar.org/r/testnet/contract/CDENNEELMOUKIJGCSQUQ535FP53KRKNYA2PO7TOCI6O6IZVWZBYFML4W) |
 | Demo UI | [sorobill-app.vercel.app](https://sorobill-app.vercel.app) |
 
+### Demo plan (Testnet)
+
+| Field | Value |
+|-------|-------|
+| Plan id | `0` (Starter) |
+| Token | Native XLM SAC `CDLZFC3SYJYDZT7K67VZ75HPJVIEUVNIXF47ZG2FB2RMQQVU2HHGCYSC` |
+| Price | `9.99` XLM / monthly (`99900000` stroops) |
+| Create tx | [e4ce52f1…](https://stellar.expert/explorer/testnet/tx/e4ce52f1e03b914bb9b6255b52b77c3217e48076af6134ea7e70efd3885cbc40) |
+| Pay UI | https://sorobill-app.vercel.app/pay/plan_1 |
+
 ## Mainnet
 
 Not deployed. Audit required before mainnet.
