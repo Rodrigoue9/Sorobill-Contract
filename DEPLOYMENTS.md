@@ -29,12 +29,12 @@ Point the app at the Contract ID below (or your own deploy) via
 
 | Field | Value |
 |-------|-------|
-| Plan id | `1` (Starter Live — current demo) |
+| Plan id | `2` (Starter — current Loom demo) |
 | Token | Native XLM SAC `CDLZFC3SYJYDZT7K67VZ75HPJVIEUVNIXF47ZG2FB2RMQQVU2HHGCYSC` |
 | Price | `9.99` XLM / monthly (`99900000` stroops) |
-| Create tx | [662ffcc0…](https://stellar.expert/explorer/testnet/tx/662ffcc099305eaf84fbbaed57c3b1b3042f31f1532d43e357844196ae12b20c) |
+| Create tx | [c14aa9c5…](https://stellar.expert/explorer/testnet/tx/c14aa9c56c5afbd4ba40761945f1d653a05ecfcadc5ea1277af69886d06af2fc) |
 | Pay UI | https://sorobill-app.vercel.app/pay/plan_1 |
-| Prior plan | `0` (first Starter; may already be subscribed for demo wallets) |
+| Prior plans | `0`, `1` (may already be subscribed for demo wallets) |
 
 ## Mainnet
 
